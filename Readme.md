@@ -37,7 +37,7 @@
 > A mobile app built with Kotlin to help teenagers track and improve their nutrition habits.
 
 **Status:** ![Active](https://img.shields.io/badge/Status-Active-brightgreen)  
-**Tech:** ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?logo=kotlin&logoColor=white&style=flat) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+**Tech:** ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?logo=kotlin&logoColor=white&style=flat) ![SQLite](file:///C:/Users/LENOVO/Pictures/Screenshots/Screenshot%20(262).png)
 
 📂 Repo: [AplikasiGiziTEENS](https://github.com/LifanXian/AplikasiGiziTEENS)
 
