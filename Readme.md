@@ -2,7 +2,7 @@
 <h3 align="center">IT Enthusiast | Android Dev | Web Dev | Always Learning</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/564x/36/e0/f5/36e0f59872e9fd4e5a2cfa2d7f1c88e4.jpg" alt="Profile Aesthetic" width="200" style="border-radius: 50%" />
+  <img src="[https://i.pinimg.com/564x/36/e0/f5/36e0f59872e9fd4e5a2cfa2d7f1c88e4.jpg](https://www.bing.com/images/search?view=detailV2&ccid=PqePkkcN&id=82B0B293426B2C8F470EACE47CFA83F635E44C80&thid=OIP.PqePkkcNmgmApqsuutRSRwHaE8&mediaurl=https%3a%2f%2fwww.umn.ac.id%2fwp-content%2fuploads%2f2022%2f10%2frear-view-programmer-working-all-night-long1.jpg&exph=4912&expw=7360&q=profile+aestetic+teknik+informatika&simid=608032216247117049&FORM=IRPRST&ck=41A18A887B46926FDAE07AC2BDD6FC49&selectedIndex=77&itb=0&ajaxhist=0&ajaxserp=0)" alt="Profile Aesthetic" width="200" style="border-radius: 50%" />
 </p>
 
 ---
