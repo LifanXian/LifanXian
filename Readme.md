@@ -10,23 +10,40 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently working on: **Gizi TEENS App** – a health app for teenagers
-- 🌱 I’m learning: **Android Development, Kotlin, and Firebase**
-- 💻 I love building: **web and mobile applications**
-- ⚡ Fun Fact: I enjoy coding while listening to music 🎧
+- 🔭 I’m currently working on: **Gizi TEENS App** – a health app for teenagers  
+- 🌱 I’m learning: **Android Development, Kotlin, and Firebase**  
+- 💻 I love building: **web and mobile applications**  
+- ⚡ Fun Fact: I enjoy coding while listening to music 🎧  
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:**  
-  `Kotlin` `PHP` `JavaScript` `HTML` `CSS`
+**Languages:**  
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
-- **Frameworks & Tools:**  
-  `Android Studio` `Firebase` `SQLite` `MySQL` `Bootstrap` `Git`
+**Frameworks & Tools:**  
+<p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-- **Currently Exploring:**  
-  `Jetpack Compose`, `Flutter`, `REST APIs`
+**Currently Exploring:**  
+<p>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat" />
+</p>
 
 ---
 
