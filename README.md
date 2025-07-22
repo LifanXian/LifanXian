@@ -8,8 +8,9 @@
 - 🎓 I'm currently studying at **Universitas Muhammadiyah Sukabumi**
 - 📱 Currently working on: **Aplikasi Gizi TEENS (Kotlin - Android Studio)**
 - 💻 Tech stack: Kotlin · PHP · MySQL · HTML · CSS · Bootstrap · Git
-- 🌱 Learning: **Mobile Dev, Laravel, Clean UI Design**
-- 📫 Reach me: **lifanxiian@gmail.com**
+- 🌱 Learning: **Mobile Dev, Clean UI Design**
+- 📫 Reach me: **ifangaming378@gmail.com**
+- 💬 Discord: **Lifan_xian**
 - ⚡ Fun fact: I like to design clean and modern interfaces while coding with lo-fi music 🎧
 
 ---
@@ -36,5 +37,5 @@
 ### 🔗 Let's Connect!
 <p>
   <a href="mailto:ifangaming378@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/lifanxiian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://discord.com/users/Lifan_xian"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
