@@ -9,6 +9,57 @@
 
 ---
 
+---
+
+### 💼 Freelance Services & Pricing
+
+Saya menyediakan jasa freelance pembuatan aplikasi web dan mobile dengan hasil profesional, harga bersahabat, dan komunikasi cepat. Berikut daftar layanan dan estimasi biayanya:
+
+| 💻 Layanan                                      | 💰 Estimasi Harga     | 📄 Keterangan Singkat |
+|------------------------------------------------|------------------------|------------------------|
+| 🔐 Sistem Login & Register (PHP/MySQL)         | Rp 500K – 1.5JT        | Login multi-role, validasi, session |
+| 📋 CRUD Web App (Dashboard Data)               | Rp 1.5JT – 3.5JT       | Tambah, edit, hapus data dengan UI modern |
+| 🏫 Sistem Informasi Sekolah / Akademik (SIAKAD)| Rp 3.5JT – 8JT         | Modul admin, guru, siswa, nilai, PDF |
+| 📱 Aplikasi Android (Kotlin - CRUD, Gizi, dll) | Rp 2.5JT – 7JT         | Pakai SQLite / Firebase, desain menarik |
+| 🌐 Website Profil Perusahaan                   | Rp 800K – 2.5JT        | HTML/CSS/Bootstrap, mobile responsive |
+| 🔌 Integrasi API (RESTful, cURL, Laravel API)  | Rp 700K – 2JT          | Hubungkan sistem dengan API luar (seperti payment, game, dsb.) |
+
+> 📝 **Catatan:** Harga bisa menyesuaikan kompleksitas, deadline, dan revisi yang dibutuhkan.
+
+---
+
+### 🛠️ Mengapa Memilih Saya?
+- ✅ Clean Code & Komponen Reusable
+- ✅ Desain Modern & Responsif
+- ✅ Komunikatif dan Fast Response
+- ✅ Gratis konsultasi kebutuhan awal
+
+---
+
+### ✉️ Cara Order / Kerja Sama
+1. Hubungi saya lewat [Email](mailto:ifangaming378@gmail.com) atau Discord `Lifan_xian`
+2. Kirimkan deskripsi proyek kamu / ide
+3. Saya akan kirim estimasi waktu & harga final
+4. Deal? Langsung saya kerjakan dengan sepenuh hati
+
+---
+
+### 🚀 Siap Bekerja Sama?
+Ayo bangun proyek impianmu bersama saya!  
+Kecil atau besar, semua dikerjakan dengan semangat dan profesionalisme 💪
+
+<p align="center">
+  <a href="mailto:ifangaming378@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Saya-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/Lifan_xian" target="_blank">
+    <img src="https://img.shields.io/badge/Discord%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
 ### 🧠 About Me
 - 🔭 I’m currently working on: **Gizi TEENS App** – a health app for teenagers  
 - 🌱 I’m learning: **Android Development, Kotlin, and Firebase**  
