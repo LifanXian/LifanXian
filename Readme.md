@@ -9,8 +9,6 @@
 
 ---
 
----
-
 ### 💼 Freelance Services & Pricing
 
 Saya menyediakan jasa freelance pembuatan aplikasi web dan mobile dengan hasil profesional, harga bersahabat, dan komunikasi cepat. Berikut daftar layanan dan estimasi biayanya:
