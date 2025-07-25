@@ -17,8 +17,8 @@ Saya menyediakan jasa freelance pembuatan aplikasi web dan mobile dengan hasil p
 |------------------------------------------------|------------------------|------------------------|
 | 🔐 Sistem Login & Register (PHP/MySQL)         | Rp 500K – 1.5JT        | Login multi-role, validasi, session |
 | 📋 CRUD Web App (Dashboard Data)               | Rp 1.5JT – 3.5JT       | Tambah, edit, hapus data dengan UI modern |
-| 🏫 Sistem Informasi Sekolah / Akademik (SIAKAD)| Rp 3.5JT – 8JT         | Modul admin, guru, siswa, nilai, PDF |
-| 📱 Aplikasi Android (Kotlin - CRUD, Gizi, dll) | Rp 2.5JT – 7JT         | Pakai SQLite / Firebase, desain menarik |
+| 🏫 Sistem Informasi / Akademik (SIAKAD)| Rp 3.5JT – 8JT         | Modul admin, guru, siswa, nilai, PDF / admin, kariawan, dll |
+| 📱 Aplikasi Android (Kotlin - CRUD, dll) | Rp 2.5JT – 7JT         | Pakai SQLite / Firebase, desain menarik |
 | 🌐 Website Profil Perusahaan                   | Rp 800K – 2.5JT        | HTML/CSS/Bootstrap, mobile responsive |
 | 🔌 Integrasi API (RESTful, cURL, Laravel API)  | Rp 700K – 2JT          | Hubungkan sistem dengan API luar (seperti payment, game, dsb.) |
 
