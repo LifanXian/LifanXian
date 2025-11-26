@@ -1,4 +1,4 @@
-<!-- README Profile GitHub -->
+[<!-- README Profile GitHub -->
 <h1 align="center">Hi there 👋, I'm Lifan Xian</h1>
 <h3 align="center">A passionate IT student, Mobile Developer, and Game Scripter from Indonesia</h3>
 <p align="center">
@@ -73,3 +73,4 @@ Tertarik berkolaborasi atau butuh jasa pembuatan aplikasi/script? Hubungi saya:
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 </p>
+](https://docs.google.com/document/d/1Hkz2X_Yzs58ZAyKhaGNEj5maS2_OotdDWHs_tiFyvXY/edit?usp=sharing)
