@@ -9,7 +9,7 @@ I'm a passionate learner currently exploring the world of web development. I lov
 - 🔭 I’m currently learning and improving my web development stack.
 - 📚 Student at **Universitas Muhammadiyah Sukabumi (UMMI)**.
 - ⚡ Fun fact: I enjoy solving problems and turning coffee into code.
-- 📫 How to reach me: [isi email kamu] / [isi link linkedin]
+- 📫 How to reach me: ifangaming378@gmail.com / Muhamad Ifan Fahrian
 
 ---
 
