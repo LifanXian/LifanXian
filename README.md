@@ -1,100 +1,95 @@
 # 👋 Hi there, I'm Muhamad Ifan Fahrian
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Web+Developer+in+Progress;Code+%26+Coffee+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+Web+Developer;Code+%26+Coffee+Enthusiast;Lifelong+Learner;Problem+Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ifanfahrian&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ifanfahrian?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ifanfahrian?label=Stars&style=social" alt="Stars" />
 </p>
 
 ---
 
-### 🎓 About Me
+## 🎓 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh6dDkyOTgxZnZwd2JwbWtrZ2dva3QxZ3FpNHVxY3Nha3ptNzJnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh6dDkyOTgxZnZwd2JwbWtrZ2dva3QxZ3FpNHVxY3Nha3ptNzJnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
 
 I'm a **Computer Science student** at **Universitas Muhammadiyah Sukabumi (UMMI)** with a burning passion for web development. I believe in the power of technology to solve real-world problems and I'm on a mission to become a full-stack developer who creates impactful digital experiences.
 
-- 🔭 **Currently exploring:** Full-stack web development with Laravel & modern JavaScript
+### 💡 What I'm Up To
+- 🔭 **Currently building:** Cafe management system with Laravel
 - 🌱 **Learning:** Advanced PHP, API development, and UI/UX principles
 - 💡 **Interested in:** Open source, clean code, and building scalable applications
 - ⚡ **Fun fact:** I can debug faster with a cup of coffee ☕
 - 📍 **Based in:** Sukabumi, Indonesia
 
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-</p>
-
-#### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,postgresql" />
-</p>
-
-#### 🧰 Tools & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
+### 🎯 2026 Goals
+- [x] Build a complete cafe management system
+- [x] Deploy machine learning model to Hugging Face
+- [ ] Create 5+ full-stack projects
+- [ ] Contribute to open source
+- [ ] Learn React Native for mobile development
 
 ---
 
-### 📈 GitHub Analytics
+## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ifanfahrian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifanfahrian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    </td>
-  </tr>
-</table>
-
+### 💻 Frontend Development
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifanfahrian&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,postgresql,nodejs,express" />
+</p>
+
+### 🧰 Tools & Environment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,figma" />
+</p>
+
+### 📊 Data Science & ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ifanfahrian&theme=nord&no-frame=true&row=2&column=4" />
-</p>
+### 🏪 1. Cafe Management System
+[![Cafe Management](https://img.shields.io/badge/Repository-Cafe_Management-4CAF50?style=for-the-badge&logo=github)](https://github.com/ifanfahrian/cafe-management)
 
----
+**A complete cafe management system built with Laravel**
 
-### 📫 Let's Connect
+| Features | Technologies |
+|----------|--------------|
+| POS System | Laravel 10 |
+| Inventory Management | MySQL |
+| Employee Management | Bootstrap 5 |
+| Sales Reports | JavaScript |
+| Menu Management | Tailwind CSS |
 
-<p align="center">
-  <a href="mailto:ifangaming378@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ifanfahrian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/ifanfahrian"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
-
----
-
-### ✨ Recent Activity
-
-<!--START_SECTION:activity-->
-- 🎯 Working on my latest Laravel project
-- 📚 Learning about REST APIs and authentication
-- 💬 Sharing knowledge about web development
-<!--END_SECTION:activity-->
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ifanfahrian&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <b>💻 "Code is poetry. Write clean, dream big."</b>
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/ifanfahrian">ifanfahrian</a></i>
-</p>
+```php
+// Example: Cafe POS System
+public function processOrder(Request $request) {
+    $order = Order::create([
+        'customer_id' => $request->customer_id,
+        'total' => $request->total,
+        'payment_method' => $request->payment_method
+    ]);
+    
+    foreach($request->items as $item) {
+        $order->items()->create($item);
+        $this->updateStock($item['product_id'], $item['quantity']);
+    }
+    
+    return response()->json(['order' => $order, 'message' => 'Order processed']);
+}
