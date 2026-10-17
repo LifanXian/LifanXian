@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Muhamad Ifan Fahrian
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+Web+Developer;Code+%26+Coffee+Enthusiast;Lifelong+Learner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Full-Stack+Web+Developer;Code+%26+Coffee+Enthusiast;Business-Driven+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,43 +16,52 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh6dDkyOTgxZnZwd2JwbWtrZ2dva3QxZ3FpNHVxY3Nha3ptNzJnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
 
-I'm a **Computer Science student** at **Universitas Muhammadiyah Sukabumi (UMMI)** with a burning passion for web development. I believe in the power of technology to solve real-world problems and I'm on a mission to become a full-stack developer who creates impactful digital experiences.
+I'm a **Computer Science student** at **Universitas Muhammadiyah Sukabumi (UMMI)** who bridges the gap between technical complexity and business needs. I don't just write code; I build solutions that streamline operations, improve user experiences, and solve real-world problems. 
+
+Whether it's developing a full-stack web application or deploying machine learning models, I focus on clean architecture, effective communication, and measurable impact.
 
 ### 💡 What I'm Up To
-- 🔭 **Currently building:** Cafe management system with Laravel
-- 🌱 **Learning:** Advanced PHP, API development, and UI/UX principles
-- 💡 **Interested in:** Open source, clean code, and building scalable applications
-- ⚡ **Fun fact:** I can debug faster with a cup of coffee ☕
+- 🔭 **Currently building:** A comprehensive Cafe Management System (Laravel) to automate F&B operations.
+- 🌱 **Learning:** Advanced PHP, API architecture, and translating data insights into business strategies.
+- 🤝 **Collaboration:** Actively looking for open-source projects and team collaborations.
+- ⚡ **Fun fact:** I can debug faster with a cup of coffee and a good lo-fi playlist ☕
 - 📍 **Based in:** Sukabumi, Indonesia
 
 ### 🎯 2026 Goals
-- [x] Build a complete cafe management system
-- [x] Deploy machine learning model to Hugging Face
-- [ ] Create 5+ full-stack projects
-- [ ] Contribute to open source
-- [ ] Learn React Native for mobile development
+- [x] Build and deliver a complete cafe management system
+- [x] Deploy a machine learning model to Hugging Face
+- [ ] Collaborate on cross-functional team projects
+- [ ] Contribute to 3+ open-source repositories
+- [ ] Learn React Native to expand multi-platform capabilities
+
+---
+
+## 🧠 Mindset & Soft Skills
+- **🗣️ Communication:** Able to translate complex technical jargon into simple business terms for stakeholders.
+- **📈 Business Acumen:** Focused on creating features that actually provide value to users and optimize workflow.
+- **🤝 Team Player:** Familiar with Git collaboration, code reviews, and pair programming concepts.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend Development
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue" />
 </p>
 
 ### ⚙️ Backend & Database
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=php,mysql,laravel,postgresql,nodejs,express" />
 </p>
 
 ### 🧰 Tools & Environment
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,figma" />
 </p>
 
 ### 📊 Data Science & ML
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -64,32 +73,36 @@ I'm a **Computer Science student** at **Universitas Muhammadiyah Sukabumi (UMMI)
 
 ## 🚀 Featured Projects
 
-### 🏪 1. Cafe Management System
+### 🏪 1. Cafe Management System (POS)
 [![Cafe Management](https://img.shields.io/badge/Repository-Cafe_Management-4CAF50?style=for-the-badge&logo=github)](https://github.com/ifanfahrian/cafe-management)
 
-**A complete cafe management system built with Laravel**
+A full-stack web application designed to digitalize local F&B businesses.
 
-| Features | Technologies |
-|----------|--------------|
-| POS System | Laravel 10 |
-| Inventory Management | MySQL |
-| Employee Management | Bootstrap 5 |
-| Sales Reports | JavaScript |
-| Menu Management | Tailwind CSS |
+*   **⚠️ The Problem:** Local cafes often struggle with manual order tracking, mismatched inventory, and difficulty in generating accurate monthly sales reports.
+*   **💡 The Solution:** Built a centralized Point of Sale (POS) and inventory system using **Laravel 10** and **MySQL**, featuring an intuitive UI with **Tailwind CSS**.
+*   **📈 The Impact:** Streamlines daily operations, prevents stockouts through real-time inventory updates, and provides owners with clear financial insights.
+
+<details>
+<summary>💻 Peek at the core logic (Order Processing)</summary>
 
 ```php
-// Example: Cafe POS System
+// Ensuring seamless order transaction and real-time inventory deduction
 public function processOrder(Request $request) {
-    $order = Order::create([
-        'customer_id' => $request->customer_id,
-        'total' => $request->total,
-        'payment_method' => $request->payment_method
-    ]);
-    
-    foreach($request->items as $item) {
-        $order->items()->create($item);
-        $this->updateStock($item['product_id'], $item['quantity']);
+    DB::beginTransaction();
+    try {
+        $order = Order::create([
+            'customer_id' => $request->customer_id,
+            'total' => $request->total,
+            'payment_method' => $request->payment_method
+        ]);
+        
+        foreach($request->items as $item) {$order->items()->create($item);$this->deductInventoryStock($item['product_id'],$item['quantity']); // Business logic to prevent stockouts
+        }
+        
+        DB::commit();
+        return response()->json(['order' => $order, 'message' => 'Transaction successful!']);
+    } catch (\Exception $e) {
+        DB::rollBack();
+        return response()->json(['error' => 'Transaction failed. Please try again.'], 500);
     }
-    
-    return response()->json(['order' => $order, 'message' => 'Order processed']);
 }
