@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ifanfahrian&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ifanfahrian?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ifanfahrian?label=Stars&style=social" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=LifanXian&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/LifanXian?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/LifanXian?label=Stars&style=social" alt="Stars" />
 </p>
 
 ---
 
 ## 🎓 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh6dDkyOTgxZnZwd2JwbWtrZ2dva3QxZ3FpNHVxY3Nha3ptNzJnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
+<img align="right" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="200" alt="Waving animation" />
 
 I'm a **Computer Science student** at **Universitas Muhammadiyah Sukabumi (UMMI)** who bridges the gap between technical complexity and business needs. I don't just write code; I build solutions that streamline operations, improve user experiences, and solve real-world problems. 
 
@@ -74,7 +74,7 @@ Whether it's developing a full-stack web application or deploying machine learni
 ## 🚀 Featured Projects
 
 ### 🏪 1. Cafe Management System (POS)
-[![Cafe Management](https://img.shields.io/badge/Repository-Cafe_Management-4CAF50?style=for-the-badge&logo=github)](https://github.com/ifanfahrian/cafe-management)
+[![Cafe Management](https://img.shields.io/badge/Repository-Cafe_Management-4CAF50?style=for-the-badge&logo=github)](https://github.com/LifanXian/cafe-management)
 
 A full-stack web application designed to digitalize local F&B businesses.
 
